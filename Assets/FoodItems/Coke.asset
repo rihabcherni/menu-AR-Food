@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50434ad952e1cd45b8f976b7e352d54, type: 3}
+  m_Name: Coke
+  m_EditorClassIdentifier: 
+  foodName: Coke
+  description: A refreshing fizzy drink to quench your thirst.
+  category: 
+  ingredients:
+  - Carbonated water
+  - Sugar
+  - Natural flavors
+  recipe: 1. Chill in the refrigerator.\n2. Pour into a glass over ice.\n3. Enjoy
+    cold.
+  price: 1.99
+  foodImage: {fileID: 21300000, guid: 73b54860b78052942921627c71dd4e4f, type: 3}
+  modelPrefab: {fileID: 4763020610342951857, guid: 809b7858367c9df4e9707629e90cc9d5, type: 3}
