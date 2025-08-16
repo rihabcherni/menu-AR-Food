@@ -67,27 +67,39 @@ NextGen AR Food Menu is an innovative augmented reality (AR) application develop
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/1.PNG)
+<p align="center">
+  <img src="images/1.PNG" alt="Home Screen" width="50%">
+</p>
 *Welcome screen with menu options.*
 
 ### About Page
-![About Page](images/2.PNG)
+<p align="center">
+  <img src="images/2.PNG" alt="About Page" width="50%">
+</p>
 *Information about the app and its features.*
 
 ### Food Menu
-![Food Menu](images/3.PNG)
+<p align="center">
+  <img src="images/3.PNG" alt="Food Menu" width="50%">
+</p>
 *Interactive AR-based food selection.*
 
 ### Invoice Page
-![Invoice Page](images/4.PNG)
+<p align="center">
+  <img src="images/4.PNG" alt="Invoice Page" width="50%">
+</p>
 *Detailed invoice summary.*
 
 ### Rating Page
-![Rating Page](images/5.PNG)
+<p align="center">
+  <img src="images/5.PNG" alt="Rating Page" width="50%">
+</p>
 *User feedback and rating interface.*
 
 ### 3D Table View
-![3D Table View](images/6.PNG)
+<p align="center">
+  <img src="images/6.PNG" alt="3D Table View" width="50%">
+</p>
 *Virtual dining experience showcasing purchased food.*
 
 ---
@@ -97,3 +109,9 @@ NextGen AR Food Menu is an innovative augmented reality (AR) application develop
 - **Unity**: For game development and UI design.
 - **Vuforia**: For AR integration and marker tracking.
 - **C#**: For scripting and logic implementation.
+
+---
+
+## Team
+
+- **Salma Lafi & Rihab Cherni**
