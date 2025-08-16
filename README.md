@@ -68,37 +68,37 @@ NextGen AR Food Menu is an innovative augmented reality (AR) application develop
 
 ### Home Screen
 <p align="center">
-  <img src="images/1.PNG" alt="Home Screen" width="50%">
+  <img src="images/1.PNG" alt="Home Screen" width="70%">
 </p>
 *Welcome screen with menu options.*
 
 ### About Page
 <p align="center">
-  <img src="images/2.PNG" alt="About Page" width="50%">
+  <img src="images/2.PNG" alt="About Page" width="70%">
 </p>
 *Information about the app and its features.*
 
 ### Food Menu
 <p align="center">
-  <img src="images/3.PNG" alt="Food Menu" width="50%">
+  <img src="images/3.PNG" alt="Food Menu" width="70%">
 </p>
 *Interactive AR-based food selection.*
 
 ### Invoice Page
 <p align="center">
-  <img src="images/4.PNG" alt="Invoice Page" width="50%">
+  <img src="images/4.PNG" alt="Invoice Page" width="70%">
 </p>
 *Detailed invoice summary.*
 
 ### Rating Page
 <p align="center">
-  <img src="images/5.PNG" alt="Rating Page" width="50%">
+  <img src="images/5.PNG" alt="Rating Page" width="70%">
 </p>
 *User feedback and rating interface.*
 
 ### 3D Table View
 <p align="center">
-  <img src="images/6.PNG" alt="3D Table View" width="50%">
+  <img src="images/6.PNG" alt="3D Table View" width="70%">
 </p>
 *Virtual dining experience showcasing purchased food.*
 
